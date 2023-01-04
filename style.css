@@ -13,7 +13,6 @@ h1 {
 
 #headshot {
     width: 150px;
-    height: 150px;
     border: 5px solid whitesmoke; /*Border shorthand is WIDTH, STYLE, COLOR*/
     display: inline;
     margin-right: 0;
@@ -21,7 +20,7 @@ h1 {
 }
 
 .header {
-    width: 1050px;
+    width: auto;
     position: relative;
     left: 180px;
     bottom: 40px;
