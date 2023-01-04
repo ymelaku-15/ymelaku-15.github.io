@@ -1,4 +1,31 @@
 * {
-  background: gold;
-  font: Georgia;
+    background-color: lightslategrey;
+}
+
+h1 {
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    color: gold;
+    position: relative;
+    left: 180px;
+    top: 80px;
+    margin-top: 0;
+}
+
+#headshot {
+    width: 150px;
+    height: 150px;
+    border: 5px solid whitesmoke; /*Border shorthand is WIDTH, STYLE, COLOR*/
+    display: inline;
+    margin-right: 0;
+    margin-top: 0;
+}
+
+.header {
+    width: 1050px;
+    position: relative;
+    left: 180px;
+    bottom: 40px;
+    margin-top: 0;
+    margin-bottom: 0;
+
 }
